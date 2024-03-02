@@ -191,7 +191,7 @@ Run the following command to create a new Heroku app. You can use the following 
 
 # Security Note:
 
-**There are Potential security considerations, especially when deploying online, to encourage users to follow best practices.**
+**There are Potential security considerations, especially when deploying online, I strrongly encourage users to follow best practices.**
 
 
 # Contributing
