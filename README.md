@@ -189,6 +189,11 @@ Run the following command to create a new Heroku app. You can use the following 
 -Experiment with different textures and materials for the 3D models.
 
 
+# Security Note:
+
+**There are Potential security considerations, especially when deploying online, to encourage users to follow best practices.**
+
+
 # Contributing
 
 **If you'd like to contribute or donate to the development of `The Node Runners 3D Viewer Web App` , please donate in Dogecoin. For contributors its as easy as opening issues, and creating pull requests**
